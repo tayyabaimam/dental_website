@@ -1,7 +1,6 @@
 'use client';
 
-import { Zap, Calendar, UserCheck, Smile, Stethoscope, Syringe } from 'lucide-react';
-import Image from 'next/image';
+import { Smile, Stethoscope, Syringe } from 'lucide-react';
 
 export default function Services() {
   const services = [
